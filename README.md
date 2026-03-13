@@ -46,5 +46,5 @@ streamlit run app.py
 - **Variables :** 15 (âge, éducation, genre, race, occupation, revenus…)
 - **Variable cible :** income (≤50K / >50K)
 
-## 👥 Auteurs
+## 👥 Auteur
 Sofiane Anouar ABDELHAK
